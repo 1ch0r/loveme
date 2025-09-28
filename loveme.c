@@ -1,5 +1,6 @@
 #define _POSIX_C_SOURCE 200809L
-// devstral_agent.c — Lovable-style repo agent with controller loop + interactive prompts
+// sonnet testing. works surprisingly well.
+// devstral_agent.c — Lovable-style repo agent with controller loop + interactive prompts 
 // Build: gcc -std=c11 -O2 -Wall -Wextra -o devstral_agent devstral_agent.c
 
 #include <stdio.h>
